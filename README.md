@@ -34,7 +34,7 @@ chmod +x sh7yk-attack.sh
 ```
 Before launching, make sure that the `scope.txt` file is nearby and already contains targets (IP|CIDR|DOMAIN)
 ```bash
-sudo sh7yk-attack.sh
+sudo ./sh7yk-attack.sh
 ```
 
 ## Use only with permission of the infrastructure owner!
