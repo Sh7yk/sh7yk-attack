@@ -1,4 +1,4 @@
-<img width="1946" height="1946" alt="image" src="https://github.com/user-attachments/assets/b159f8ca-b976-485e-b2f3-7b190b330018" />
+<img width="495" height="494" alt="image" src="https://github.com/user-attachments/assets/c19bdbac-8691-46cb-a1fe-77fcdafb5233" />
 
 ## Description
 A simple script to automate my routine steps at the beginning of internal network pentesting. Perhaps you'll find it useful too. :)
