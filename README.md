@@ -38,7 +38,7 @@ sudo ./sh7yk-attack.sh
 ```
 ### Yealink non-auth API commands checker
 ```bash
-./yealink_tuktuk.sh <TARGRT_IP>
+./yealink_tuktuk.sh <TARGET_IP>
 ```
 
 ## Use only with permission of the infrastructure owner!
